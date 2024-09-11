@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <codes>
+         <code>B2258</code>
+         <description>LHCM police siren yelp stuck</description>
+     </codes>
+     <codes>
+         <code>B2260</code>
+         <description>Start switch stuck</description>
+     </codes>
+     <codes>
+         <code>B2261</code>
+         <description>Right turn switch stuck</description>
+     </codes>
+     <codes>
+         <code>B2262</code>
+         <description>Front brake switch stuck</description>
+     </codes>
+     <codes>
+         <code>B2263</code>
+         <description>Hazard switch stuck</description>
+     </codes>
+     <codes>
+         <code>B2264</code>
+         <description>RHCM police lights power switch stuck</description>
+     </codes>
+     <codes>
+         <code>B2265</code>
+         <description>RHCM police lights front switch stuck</description>
+     </codes>
+     <codes>
+         <code>B2266</code>
+         <description>RHCM police lights rear switch stuck</description>
+     </codes>
+     <codes>
+         <code>B2267</code>
+         <description>RHCM police ICR switch stuck</description>
+     </codes>
+     <codes>
+         <code>B2270</code>
+         <description>BCM internal error</description>
+     </codes>
+     <codes>
+         <code>B2271</code>
+         <description>BCM voltage low</description>
+     </codes>
+     <codes>
+         <code>B2272</code>
+         <description>BCM/IM voltage high</description>
+     </codes>
+     <codes>
+         <code>B2274</code>
+         <description>Constant battery line error</description>
+     </codes>
+     <codes>
+         <code>C0562</code>
+         <description>ABS voltage low</description>
+     </codes>
+     <codes>
+         <code>C0563</code>
+         <description>ABS voltage high</description>
+     </codes>
+     <codes>
+         <code>C1014</code>
+         <description>ABS ECU relay error</description>
+     </codes>
+     <codes>
+         <code>C1021</code>
+         <description>ABS front WSS always zero</description>
+     </codes>
+     <codes>
+         <code>C1023</code>
+         <description>ABS rear WSS always zero</description>
+     </codes>
+     <codes>
+         <code>C1025</code>
+         <description>ABS Front wheel speed intermittent</description>
+     </codes>
+     <codes>
+         <code>C1027</code>
+         <description>ABS rear wheel speed intermittent</description>
+     </codes>
+     <codes>
+         <code>C1029</code>
+         <description>ABS wheel speed difference too high</description>
+     </codes>
+     <codes>
+         <code>C1032</code>
+         <description>ABS Front wheel speed circuit open/shorted</description>
+     </codes>
+     <codes>
+         <code>C1034</code>
+         <description>ABS rear wheel speed circuit open/shorted</description>
+     </codes>
+     <codes>
+         <code>C1040</code>
+         <description>ABS pump/motor error</description>
+     </codes>
+     <codes>
+         <code>C1055</code>
+         <description>ABS ECU internal error</description>
+     </codes>
+     <codes>
+         <code>C1061</code>
+         <description>ABS front apply solenoid circuit open/high resistance</description>
+     </codes>
+     <codes>
+         <code>C1062</code>
+         <description>ABS front release solenoid circuit open/high resistance</description>
+     </codes>
+     <codes>
+         <code>C1065</code>
+         <description>ABS rear apply solenoid circuit open/high resistance</description>
+     </codes>
+     <codes>
+         <code>C1066</code>
+         <description>ABS rear release solenoid circuit open/high resistance</description>
+     </codes>
+     <codes>
+         <code>C1071</code>
+         <description>Rear prime valve error</description>
+     </codes>
+     <codes>
+         <code>C1072</code>
+         <description>Rear isolation valve error</description>
+     </codes>
+     <codes>
+         <code>C1073</code>
+         <description>Front isolation valve error</description>
+     </codes>
+     <codes>
+         <code>C1074</code>
+         <description>Front prime valve error</description>
+     </codes>
+     <codes>
+         <code>C1075</code>
+         <description>Front linked inlet valve error</description>
+     </codes>
+     <codes>
+         <code>C1076</code>
+         <description>Front linked outlet valve error</description>
+     </codes>
+     <codes>
+         <code>C1077</code>
+         <description>Front circuit pressure sensor error</description>
+     </codes>
+     <codes>
+         <code>C1078</code>
+         <description>Rear circuit pressure sensor error</description>
+     </codes>
+     <codes>
+         <code>C1081</code>
+         <description>Front master pressure sensor error</description>
+     </codes>
+     <codes>
+         <code>C1082</code>
+         <description>Front master pressure sensor offset error</description>
+     </codes>
+     <codes>
+         <code>C1083</code>
+         <description>Front wheel pressure sensor error</description>
+     </codes>
+     <codes>
+         <code>C1084</code>
+         <description>Front wheel pressure sensor offset error</description>
+     </codes>
+     <codes>
+         <code>C1085</code>
+         <description>Rear master pressure sensor error</description>
+     </codes>
+     <codes>
+         <code>C1086</code>
+         <description>Rear master pressure offset sensor error</description>
+     </codes>
+     <codes>
+         <code>C1087</code>
+         <description>Rear wheel pressure sensor error</description>
+     </codes>
+     <codes>
+         <code>C1088</code>
+         <description>Rear wheel pressure sensor offset error</description>
+     </codes>
+     <codes>
+         <code>C1089</code>
+         <description>Pressure sensor external supply error</description>
+     </codes>
+     <codes>
+         <code>C1159</code>
+         <description>ABS invalid stored VIN</description>
+     </codes>
+     <codes>
+         <code>C1178</code>
+         <description>ABS no VIN received from ECM</description>
+     </codes>
+     <codes>
+         <code>C1184</code>
+         <description>ABS invalid VIN from ECM</description>
+     </codes>
+     <codes>
+         <code>C1195</code>
+         <description>Wake up error</description>
+     </codes>
+     <codes>
+         <code>P0031</code>
+         <description>Front HO2S low/open</description>
+     </codes>
+     <codes>
+         <code>P0032</code>
+         <description>Front HO2S shorted/high</description>
+     </codes>
+     <codes>
+         <code>P0051</code>
+         <description>Rear HO2S low/open</description>
+     </codes>
+     <codes>
+         <code>P0052</code>
+         <description>Rear HO2S shorted/high</description>
+     </codes>
+     <codes>
+         <code>P0072</code>
+         <description>AAT sensor low</description>
+     </codes>
+     <codes>
+         <code>P0073</code>
+         <description>AAT sensor high/open</description>
+     </codes>
+     <codes>
+         <code>P0107</code>
+         <description>MAP sensor failed low/open</description>
+     </codes>
+     <codes>
+         <code>P0107</code>
+         <description>Map Sensor Open/Low</description>
+     </codes>
+     <codes>
+         <code>P0108</code>
+         <description>MAP sensor failed high/open port</description>
+     </codes>
+     <codes>
+         <code>P0112</code>
+         <description>IAT Voltage Low</description>
+     </codes>
+     <codes>
+         <code>P0113</code>
+         <description>IAT Voltage Open/High</description>
+     </codes>
+     <codes>
+         <code>P0117</code>
+         <description>ET Sensor Low</description>
+     </codes>
+     <codes>
+         <code>P0118</code>
+         <description>ET Sensor High</description>
+     </codes>
+     <codes>
+         <code>P0120</code>
+         <description>TPS1 Range Error</description>
+     </codes>
+     <codes>
+         <code>P0122</code>
+         <description>TPS1 Low</description>
+     </codes>
+     <codes>
+         <code>P0123</code>
+         <description>TPS2 High/Open</description>
+     </codes>
+     <codes>
+         <code>P0131</code>
+         <description>Front Oxygen Sensor Low / Engine Lean</description>
+     </codes>
+     <codes>
+         <code>P0132</code>
+         <description>Front Oxygen Sensor High / Engine Rich</description>
+     </codes>
+     <codes>
+         <code>P0134</code>
+         <description>Front Oxygen Sensor Inactive</description>
+     </codes>
+     <codes>
+         <code>P0151</code>
+         <description>Rear Oxygen Sensor Low / Engine Lean</description>
+     </codes>
+     <codes>
+         <code>P0152</code>
+         <description>Rear Oxygen Sensor High / Engine Rich</description>
+     </codes>
+     <codes>
+         <code>P0154</code>
+         <description>Rear Oxygen Sensor Inactive</description>
+     </codes>
+     <codes>
+         <code>P0220</code>
+         <description>TPS2 Range Error</description>
+     </codes>
+     <codes>
+         <code>P0222</code>
+         <description>TPS2 Low/Open</description>
+     </codes>
+     <codes>
+         <code>P0223</code>
+         <description>TPS2 High/Open</description>
+     </codes>
+     <codes>
+         <code>P0261</code>
+         <description>Front Injector Open/Low</description>
+     </codes>
+     <codes>
+         <code>P0262</code>
+         <description>Front Injector High</description>
+     </codes>
+     <codes>
+         <code>P0263</code>
+         <description>Rear Injector Open/Low</description>
+     </codes>
+     <codes>
+         <code>P0264</code>
+         <description>Rear Injector High</description>
+     </codes>
+     <codes>
+         <code>P0265</code>
+         <description>Rear injector shorted high</description>
+     </codes>
+     <codes>
+         <code>P0371</code>
+         <description>CKP sensor wrong number of pulses</description>
+     </codes>
+     <codes>
+         <code>P0373</code>
+         <description>CKP Sensor Intermittent</description>
+     </codes>
+     <codes>
+         <code>P0374</code>
+         <description>CKP Sensor Synch Error</description>
+     </codes>
+     <codes>
+         <code>P0444</code>
+         <description>Purge Solenoid Open/Low</description>
+     </codes>
+     <codes>
+         <code>P0445</code>
+         <description>Purge Solenoid High</description>
+     </codes>
+     <codes>
+         <code>P0501</code>
+         <description>VSS Sensor Low</description>
+     </codes>
+     <codes>
+         <code>P0502</code>
+         <description>VSS Sensor High/Open</description>
+     </codes>
+     <codes>
+         <code>P0503</code>
+         <description>VSS failed high</description>
+     </codes>
+     <codes>
+         <code>P0505</code>
+         <description>Idle speed control unstable</description>
+     </codes>
+     <codes>
+         <code>P0562</code>
+         <description>Battery/ECM Voltage Low</description>
+     </codes>
+     <codes>
+         <code>P0563</code>
+         <description>Battery/ECM Voltage High</description>
+     </codes>
+     <codes>
+         <code>P0572</code>
+         <description>Brake Switch Low</description>
+     </codes>
+     <codes>
+         <code>P0577</code>
+         <description>Cruise Control Input High</description>
+     </codes>
+     <codes>
+         <code>P0603</code>
+         <description>ECM EEPROM Memory Error</description>
+     </codes>
+     <codes>
+         <code>P0605</code>
+         <description>ECM FLASH Memory Error</description>
+     </codes>
+     <codes>
+         <code>P0641</code>
+         <description>5 Volt Reference 1 Out of Range</description>
+     </codes>
+     <codes>
+         <code>P0651</code>
+         <description>5 Volt Reference 2 Out of Range</description>
+     </codes>
+     <codes>
+         <code>P0691</code>
+         <description>Fan/cooling relay output low/open</description>
+     </codes>
+     <codes>
+         <code>P0692</code>
+         <description>Fan/cooling relay output high</description>
+     </codes>
+     <codes>
+         <code>P1001</code>
+         <description>System Relay Coil Open/Low</description>
+     </codes>
+     <codes>
+         <code>P1002</code>
+         <description>System Relay Coil High/Shorted</description>
+     </codes>
+     <codes>
+         <code>P1003</code>
+         <description>System relay contacts open</description>
+     </codes>
+     <codes>
+         <code>P1004</code>
+         <description>System Relay Contacts Closed</description>
+     </codes>
+     <codes>
+         <code>P1009</code>
+         <description>VTD Disabled Fuel Due to Incorrect Password</description>
+     </codes>
+     <codes>
+         <code>P1010</code>
+         <description>Missing Password</description>
+     </codes>
+     <codes>
+         <code>P1017</code>
+         <description>ET indicates overheating</description>
+     </codes>
+     <codes>
+         <code>P1019</code>
+         <description>ECT Difference (high temp)</description>
+     </codes>
+     <codes>
+         <code>P1270</code>
+         <description>TGS 2 A/D Validation Error</description>
+     </codes>
+     <codes>
+         <code>P1351</code>
+         <description>Front Ignition Coil Driver Open/Low</description>
+     </codes>
+     <codes>
+         <code>P1352</code>
+         <description>Front Ignition Coil Driver High/Shorted</description>
+     </codes>
+     <codes>
+         <code>P1353</code>
+         <description>Front Cylinder No Combustion</description>
+     </codes>
+     <codes>
+         <code>P1354</code>
+         <description>Rear Ignition Coil Driver Open/Low</description>
+     </codes>
+     <codes>
+         <code>P1355</code>
+         <description>Rear Ignition Coil Driver High/Shorted</description>
+     </codes>
+     <codes>
+         <code>P1356</code>
+         <description>Rear Cylinder No Combustion</description>
+     </codes>
+     <codes>
+         <code>P1357</code>
+         <description>Front Cylinder Combustion Intermittent</description>
+     </codes>
+     <codes>
+         <code>P1358</code>
+         <description>Rear Cylinder Combustion Intermittent</description>
+     </codes>
+     <codes>
+         <code>P1475</code>
+         <description>Exhaust Actuation Position Error</description>
+     </codes>
+     <codes>
+         <code>P1477</code>
+         <description>Exhaust Actuator Open/Low</description>
+     </codes>
+     <codes>
+         <code>P1478</code>
+         <description>Exhaust Actuator Shorted/High</description>
+     </codes>
+     <codes>
+         <code>P1501</code>
+         <description>Jiffy Stand Sensor Low</description>
+     </codes>
+     <codes>
+         <code>P1502</code>
+         <description>Jiffy Stand Sensor High</description>
+     </codes>
+     <codes>
+         <code>P1510</code>
+         <description>EFI Limited Performance Mode</description>
+     </codes>
+     <codes>
+         <code>P1511</code>
+         <description>EFI Power Management Mode</description>
+     </codes>
+     <codes>
+         <code>P1512</code>
+         <description>EFI Forced Idle Mode</description>
+     </codes>
+     <codes>
+         <code>P1514</code>
+         <description>ETC Air Flow Fault/Error</description>
+     </codes>
+     <codes>
+         <code>P1600</code>
+         <description>EFI Module Processor Internal Error / Watchdog Error</description>
+     </codes>
+     <codes>
+         <code>P1608</code>
+         <description>Loss of continuous battery</description>
+     </codes>
+     <codes>
+         <code>P1655</code>
+         <description>ACR solenoid low/open</description>
+     </codes>
+     <codes>
+         <code>P1656</code>
+         <description>ACR solenoid shorted high</description>
+     </codes>
+     <codes>
+         <code>P691</code>
+         <description>Cooling fan left low/open</description>
+     </codes>
+     <codes>
+         <code>P1692</code>
+         <description>Cooling fan left shorted high</description>
+     </codes>
+     <codes>
+         <code>P1693</code>
+         <description>Cooling fan right low/open</description>
+     </codes>
+     <codes>
+         <code>P1694</code>
+         <description>Cooling fan right shorted high</description>
+     </codes>
+     <codes>
+         <code>P2100</code>
+         <description>EFI Motor Circuit Open</description>
+     </codes>
+     <codes>
+         <code>P2101</code>
+         <description>EFI Motor Circuit Range Performance (Actuation Error)</description>
+     </codes>
+     <codes>
+         <code>P2102</code>
+         <description>EFI Motor Circuit Low</description>
+     </codes>
+     <codes>
+         <code>P2103</code>
+         <description>EFI Motor Circuit High</description>
+     </codes>
+     <codes>
+         <code>P2105</code>
+         <description>EFI Forced engine shutdown</description>
+     </codes>
+     <codes>
+         <code>P2107</code>
+         <description>EFI Module Processor Internal Fault</description>
+     </codes>
+     <codes>
+         <code>P2119</code>
+         <description>EFI Motor Throttle Body RangePerformance</description>
+     </codes>
+     <codes>
+         <code>P2122</code>
+         <description>TGS1 Low/Open</description>
+     </codes>
+     <codes>
+         <code>P2123</code>
+         <description>TGS1 High</description>
+     </codes>
+     <codes>
+         <code>P2127</code>
+         <description>TGS2 Low/Open</description>
+     </codes>
+     <codes>
+         <code>P2128</code>
+         <description>TGS2 High</description>
+     </codes>
+     <codes>
+         <code>P2135</code>
+         <description>TPS Correlation Error</description>
+     </codes>
+     <codes>
+         <code>P2138</code>
+         <description>TGS Correlation Error (Twist grip sensor)</description>
+     </codes>
+     <codes>
+         <code>P2176</code>
+         <description>EFI Closed Position Not Learned</description>
+     </codes>
+     <codes>
+         <code>P2184</code>
+         <description>ECT sensor low</description>
+     </codes>
+     <codes>
+         <code>P2185</code>
+         <description>ECT sensor high</description>
+     </codes>
+     <codes>
+         <code>P2300</code>
+         <description>Ignition coil driver low/open (front)</description>
+     </codes>
+     <codes>
+         <code>P2301</code>
+         <description>Ignition coil driver shorted high (front)</description>
+     </codes>
+     <codes>
+         <code>P2303</code>
+         <description>Ignition coil driver low/open (rear)</description>
+     </codes>
+     <codes>
+         <code>P2304</code>
+         <description>Ignition coil driver shorted high (rear)</description>
+     </codes>
+     <codes>
+         <code>U0001</code>
+         <description>CAN BUS error</description>
+     </codes>
+     <codes>
+         <code>U0002</code>
+         <description>CAN comm bus perf error</description>
+     </codes>
+     <codes>
+         <code>U0003</code>
+         <description>Network management monitoring</description>
+     </codes>
+     <codes>
+         <code>U0100</code>
+         <description>Lost comm w/ECM</description>
+     </codes>
+     <codes>
+         <code>U0121</code>
+         <description>Lost comm W/ABS</description>
+     </codes>
+     <codes>
+         <code>U0140</code>
+         <description>Lost comm W/BCM</description>
+     </codes>
+     <codes>
+         <code>U0141</code>
+         <description>Lost comm w/LHCM</description>
+     </codes>
+     <codes>
+         <code>U0142</code>
+         <description>Lost comm w/RHCM</description>
+     </codes>
+     <codes>
+         <code>U0156</code>
+         <description>Lost comm w/SPEEDO</description>
+     </codes>
+     <codes>
+         <code>U0158</code>
+         <description>Lost comm w/fuel gauge</description>
+     </codes>
+     <codes>
+         <code>U0159</code>
+         <description>Lost comm w/volt gauge</description>
+     </codes>
+     <codes>
+         <code>U0160</code>
+         <description>Lost comm w/ fuel and volt gauge</description>
+     </codes>
+     <codes>
+         <code>U0184</code>
+         <description>Lost comm w/radio</description>
+     </codes>
+     <codes>
+         <code>U0185</code>
+         <description>Lost comm w/Amp 1</description>
+     </codes>
+     <codes>
+         <code>U0186</code>
+         <description>Lost comm w/ AMP 2</description>
+     </codes>
+     <codes>
+         <code>U1016</code>
+         <description>Loss of ECM Serial Data</description>
+     </codes>
+     <codes>
+         <code>U1064</code>
+         <description>Loss of TSM/FSFM Serial Data to ECM</description>
+     </codes>
+     <codes>
+         <code>U1097</code>
+         <description>Loss of SpeedometerSerial Data to ECM</description>
+     </codes>
+     <codes>
+         <code>U1255</code>
+         <description>Serial Data Error</description>
+     </codes>
+     <codes>
+         <code>U1300</code>
+         <description>ECM Serial Data Low</description>
+     </codes>
+     <codes>
+         <code>U1300</code>
+         <description>Serial Data Low</description>
+     </codes>
+     <codes>
+         <code>U1301</code>
+         <description>ECM Serial Data High</description>
+     </codes>
+     <codes>
+         <code>U1301</code>
+         <description>Serial Data High</description>
+     </codes>
+     <codes>
+         <code>U1302</code>
+         <description>ACC bus perf error</description>
+     </codes>
+     <codes>
+         <code>U1401</code>
+         <description>Lost comm w/CB</description>
+     </codes>
+ </root>

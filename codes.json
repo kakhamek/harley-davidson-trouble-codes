@@ -1,0 +1,716 @@
+{
+    "codes": [
+        {
+        "code": "B2258",
+        "description": "LHCM police siren yelp stuck"
+        },
+        {
+        "code": "B2260",
+        "description": "Start switch stuck"
+        },
+        {
+        "code": "B2261",
+        "description": "Right turn switch stuck"
+        },
+        {
+        "code": "B2262",
+        "description": "Front brake switch stuck"
+        },
+        {
+        "code": "B2263",
+        "description": "Hazard switch stuck"
+        },
+        {
+        "code": "B2264",
+        "description": "RHCM police lights power switch stuck"
+        },
+        {
+        "code": "B2265",
+        "description": "RHCM police lights front switch stuck"
+        },
+        {
+        "code": "B2266",
+        "description": "RHCM police lights rear switch stuck"
+        },
+        {
+        "code": "B2267",
+        "description": "RHCM police ICR switch stuck"
+        },
+        {
+        "code": "B2270",
+        "description": "BCM internal error"
+        },
+        {
+        "code": "B2271",
+        "description": "BCM voltage low"
+        },
+        {
+        "code": "B2272",
+        "description": "BCM/IM voltage high"
+        },
+        {
+        "code": "B2274",
+        "description": "Constant battery line error"
+        },
+        {
+        "code": "C0562",
+        "description": "ABS voltage low"
+        },
+        {
+        "code": "C0563",
+        "description": "ABS voltage high"
+        },
+        {
+        "code": "C1014",
+        "description": "ABS ECU relay error"
+        },
+        {
+        "code": "C1021",
+        "description": "ABS front WSS always zero"
+        },
+        {
+        "code": "C1023",
+        "description": "ABS rear WSS always zero"
+        },
+        {
+        "code": "C1025",
+        "description": "ABS Front wheel speed intermittent"
+        },
+        {
+        "code": "C1027",
+        "description": "ABS rear wheel speed intermittent"
+        },
+        {
+        "code": "C1029",
+        "description": "ABS wheel speed difference too high"
+        },
+        {
+        "code": "C1032",
+        "description": "ABS Front wheel speed circuit open/shorted"
+        },
+        {
+        "code": "C1034",
+        "description": "ABS rear wheel speed circuit open/shorted"
+        },
+        {
+        "code": "C1040",
+        "description": "ABS pump/motor error"
+        },
+        {
+        "code": "C1055",
+        "description": "ABS ECU internal error"
+        },
+        {
+        "code": "C1061",
+        "description": "ABS front apply solenoid circuit open/high resistance"
+        },
+        {
+        "code": "C1062",
+        "description": "ABS front release solenoid circuit open/high resistance"
+        },
+        {
+        "code": "C1065",
+        "description": "ABS rear apply solenoid circuit open/high resistance"
+        },
+        {
+        "code": "C1066",
+        "description": "ABS rear release solenoid circuit open/high resistance"
+        },
+        {
+        "code": "C1071",
+        "description": "Rear prime valve error"
+        },
+        {
+        "code": "C1072",
+        "description": "Rear isolation valve error"
+        },
+        {
+        "code": "C1073",
+        "description": "Front isolation valve error"
+        },
+        {
+        "code": "C1074",
+        "description": "Front prime valve error"
+        },
+        {
+        "code": "C1075",
+        "description": "Front linked inlet valve error"
+        },
+        {
+        "code": "C1076",
+        "description": "Front linked outlet valve error"
+        },
+        {
+        "code": "C1077",
+        "description": "Front circuit pressure sensor error"
+        },
+        {
+        "code": "C1078",
+        "description": "Rear circuit pressure sensor error"
+        },
+        {
+        "code": "C1081",
+        "description": "Front master pressure sensor error"
+        },
+        {
+        "code": "C1082",
+        "description": "Front master pressure sensor offset error"
+        },
+        {
+        "code": "C1083",
+        "description": "Front wheel pressure sensor error"
+        },
+        {
+        "code": "C1084",
+        "description": "Front wheel pressure sensor offset error"
+        },
+        {
+        "code": "C1085",
+        "description": "Rear master pressure sensor error"
+        },
+        {
+        "code": "C1086",
+        "description": "Rear master pressure offset sensor error"
+        },
+        {
+        "code": "C1087",
+        "description": "Rear wheel pressure sensor error"
+        },
+        {
+        "code": "C1088",
+        "description": "Rear wheel pressure sensor offset error"
+        },
+        {
+        "code": "C1089",
+        "description": "Pressure sensor external supply error"
+        },
+        {
+        "code": "C1159",
+        "description": "ABS invalid stored VIN"
+        },
+        {
+        "code": "C1178",
+        "description": "ABS no VIN received from ECM"
+        },
+        {
+        "code": "C1184",
+        "description": "ABS invalid VIN from ECM"
+        },
+        {
+        "code": "C1195",
+        "description": "Wake up error"
+        },
+        {
+        "code": "P0031",
+        "description": "Front HO2S low/open"
+        },
+        {
+        "code": "P0032",
+        "description": "Front HO2S shorted/high"
+        },
+        {
+        "code": "P0051",
+        "description": "Rear HO2S low/open"
+        },
+        {
+        "code": "P0052",
+        "description": "Rear HO2S shorted/high"
+        },
+        {
+        "code": "P0072",
+        "description": "AAT sensor low"
+        },
+        {
+        "code": "P0073",
+        "description": "AAT sensor high/open"
+        },
+        {
+        "code": "P0107",
+        "description": "MAP sensor failed low/open"
+        },
+        {
+        "code": "P0107",
+        "description": "Map Sensor Open/Low"
+        },
+        {
+        "code": "P0108",
+        "description": "MAP sensor failed high/open port"
+        },
+        {
+        "code": "P0112",
+        "description": "IAT Voltage Low"
+        },
+        {
+        "code": "P0113",
+        "description": "IAT Voltage Open/High"
+        },
+        {
+        "code": "P0117",
+        "description": "ET Sensor Low"
+        },
+        {
+        "code": "P0118",
+        "description": "ET Sensor High"
+        },
+        {
+        "code": "P0120",
+        "description": "TPS1 Range Error"
+        },
+        {
+        "code": "P0122",
+        "description": "TPS1 Low"
+        },
+        {
+        "code": "P0123",
+        "description": "TPS2 High/Open"
+        },
+        {
+        "code": "P0131",
+        "description": "Front Oxygen Sensor Low / Engine Lean"
+        },
+        {
+        "code": "P0132",
+        "description": "Front Oxygen Sensor High / Engine Rich"
+        },
+        {
+        "code": "P0134",
+        "description": "Front Oxygen Sensor Inactive"
+        },
+        {
+        "code": "P0151",
+        "description": "Rear Oxygen Sensor Low / Engine Lean"
+        },
+        {
+        "code": "P0152",
+        "description": "Rear Oxygen Sensor High / Engine Rich"
+        },
+        {
+        "code": "P0154",
+        "description": "Rear Oxygen Sensor Inactive"
+        },
+        {
+        "code": "P0220",
+        "description": "TPS2 Range Error"
+        },
+        {
+        "code": "P0222",
+        "description": "TPS2 Low/Open"
+        },
+        {
+        "code": "P0223",
+        "description": "TPS2 High/Open"
+        },
+        {
+        "code": "P0261",
+        "description": "Front Injector Open/Low"
+        },
+        {
+        "code": "P0262",
+        "description": "Front Injector High"
+        },
+        {
+        "code": "P0263",
+        "description": "Rear Injector Open/Low"
+        },
+        {
+        "code": "P0264",
+        "description": "Rear Injector High"
+        },
+        {
+        "code": "P0265",
+        "description": "Rear injector shorted high"
+        },
+        {
+        "code": "P0371",
+        "description": "CKP sensor wrong number of pulses"
+        },
+        {
+        "code": "P0373",
+        "description": "CKP Sensor Intermittent"
+        },
+        {
+        "code": "P0374",
+        "description": "CKP Sensor Synch Error"
+        },
+        {
+        "code": "P0444",
+        "description": "Purge Solenoid Open/Low"
+        },
+        {
+        "code": "P0445",
+        "description": "Purge Solenoid High"
+        },
+        {
+        "code": "P0501",
+        "description": "VSS Sensor Low"
+        },
+        {
+        "code": "P0502",
+        "description": "VSS Sensor High/Open"
+        },
+        {
+        "code": "P0503",
+        "description": "VSS failed high"
+        },
+        {
+        "code": "P0505",
+        "description": "Idle speed control unstable"
+        },
+        {
+        "code": "P0562",
+        "description": "Battery/ECM Voltage Low"
+        },
+        {
+        "code": "P0563",
+        "description": "Battery/ECM Voltage High"
+        },
+        {
+        "code": "P0572",
+        "description": "Brake Switch Low"
+        },
+        {
+        "code": "P0577",
+        "description": "Cruise Control Input High"
+        },
+        {
+        "code": "P0603",
+        "description": "ECM EEPROM Memory Error"
+        },
+        {
+        "code": "P0605",
+        "description": "ECM FLASH Memory Error"
+        },
+        {
+        "code": "P0641",
+        "description": "5 Volt Reference 1 Out of Range"
+        },
+        {
+        "code": "P0651",
+        "description": "5 Volt Reference 2 Out of Range"
+        },
+        {
+        "code": "P0691",
+        "description": "Fan/cooling relay output low/open"
+        },
+        {
+        "code": "P0692",
+        "description": "Fan/cooling relay output high"
+        },
+        {
+        "code": "P1001",
+        "description": "System Relay Coil Open/Low"
+        },
+        {
+        "code": "P1002",
+        "description": "System Relay Coil High/Shorted"
+        },
+        {
+        "code": "P1003",
+        "description": "System relay contacts open"
+        },
+        {
+        "code": "P1004",
+        "description": "System Relay Contacts Closed"
+        },
+        {
+        "code": "P1009",
+        "description": "VTD Disabled Fuel Due to Incorrect Password"
+        },
+        {
+        "code": "P1010",
+        "description": "Missing Password"
+        },
+        {
+        "code": "P1017",
+        "description": "ET indicates overheating"
+        },
+        {
+        "code": "P1019",
+        "description": "ECT Difference (high temp)"
+        },
+        {
+        "code": "P1270",
+        "description": "TGS 2 A/D Validation Error"
+        },
+        {
+        "code": "P1351",
+        "description": "Front Ignition Coil Driver Open/Low"
+        },
+        {
+        "code": "P1352",
+        "description": "Front Ignition Coil Driver High/Shorted"
+        },
+        {
+        "code": "P1353",
+        "description": "Front Cylinder No Combustion"
+        },
+        {
+        "code": "P1354",
+        "description": "Rear Ignition Coil Driver Open/Low"
+        },
+        {
+        "code": "P1355",
+        "description": "Rear Ignition Coil Driver High/Shorted"
+        },
+        {
+        "code": "P1356",
+        "description": "Rear Cylinder No Combustion"
+        },
+        {
+        "code": "P1357",
+        "description": "Front Cylinder Combustion Intermittent"
+        },
+        {
+        "code": "P1358",
+        "description": "Rear Cylinder Combustion Intermittent"
+        },
+        {
+        "code": "P1475",
+        "description": "Exhaust Actuation Position Error"
+        },
+        {
+        "code": "P1477",
+        "description": "Exhaust Actuator Open/Low"
+        },
+        {
+        "code": "P1478",
+        "description": "Exhaust Actuator Shorted/High"
+        },
+        {
+        "code": "P1501",
+        "description": "Jiffy Stand Sensor Low"
+        },
+        {
+        "code": "P1502",
+        "description": "Jiffy Stand Sensor High"
+        },
+        {
+        "code": "P1510",
+        "description": "EFI Limited Performance Mode"
+        },
+        {
+        "code": "P1511",
+        "description": "EFI Power Management Mode"
+        },
+        {
+        "code": "P1512",
+        "description": "EFI Forced Idle Mode"
+        },
+        {
+        "code": "P1514",
+        "description": "ETC Air Flow Fault/Error"
+        },
+        {
+        "code": "P1600",
+        "description": "EFI Module Processor Internal Error / Watchdog Error"
+        },
+        {
+        "code": "P1608",
+        "description": "Loss of continuous battery"
+        },
+        {
+        "code": "P1655",
+        "description": "ACR solenoid low/open"
+        },
+        {
+        "code": "P1656",
+        "description": "ACR solenoid shorted high"
+        },
+        {
+        "code": "P691",
+        "description": "Cooling fan left low/open"
+        },
+        {
+        "code": "P1692",
+        "description": "Cooling fan left shorted high"
+        },
+        {
+        "code": "P1693",
+        "description": "Cooling fan right low/open"
+        },
+        {
+        "code": "P1694",
+        "description": "Cooling fan right shorted high"
+        },
+        {
+        "code": "P2100",
+        "description": "EFI Motor Circuit Open"
+        },
+        {
+        "code": "P2101",
+        "description": "EFI Motor Circuit Range Performance (Actuation Error)"
+        },
+        {
+        "code": "P2102",
+        "description": "EFI Motor Circuit Low"
+        },
+        {
+        "code": "P2103",
+        "description": "EFI Motor Circuit High"
+        },
+        {
+        "code": "P2105",
+        "description": "EFI Forced engine shutdown"
+        },
+        {
+        "code": "P2107",
+        "description": "EFI Module Processor Internal Fault"
+        },
+        {
+        "code": "P2119",
+        "description": "EFI Motor Throttle Body RangePerformance"
+        },
+        {
+        "code": "P2122",
+        "description": "TGS1 Low/Open"
+        },
+        {
+        "code": "P2123",
+        "description": "TGS1 High"
+        },
+        {
+        "code": "P2127",
+        "description": "TGS2 Low/Open"
+        },
+        {
+        "code": "P2128",
+        "description": "TGS2 High"
+        },
+        {
+        "code": "P2135",
+        "description": "TPS Correlation Error"
+        },
+        {
+        "code": "P2138",
+        "description": "TGS Correlation Error (Twist grip sensor)"
+        },
+        {
+        "code": "P2176",
+        "description": "EFI Closed Position Not Learned"
+        },
+        {
+        "code": "P2184",
+        "description": "ECT sensor low"
+        },
+        {
+        "code": "P2185",
+        "description": "ECT sensor high"
+        },
+        {
+        "code": "P2300",
+        "description": "Ignition coil driver low/open (front)"
+        },
+        {
+        "code": "P2301",
+        "description": "Ignition coil driver shorted high (front)"
+        },
+        {
+        "code": "P2303",
+        "description": "Ignition coil driver low/open (rear)"
+        },
+        {
+        "code": "P2304",
+        "description": "Ignition coil driver shorted high (rear)"
+        },
+        {
+        "code": "U0001",
+        "description": "CAN BUS error"
+        },
+        {
+        "code": "U0002",
+        "description": "CAN comm bus perf error"
+        },
+        {
+        "code": "U0003",
+        "description": "Network management monitoring"
+        },
+        {
+        "code": "U0100",
+        "description": "Lost comm w/ECM"
+        },
+        {
+        "code": "U0121",
+        "description": "Lost comm W/ABS"
+        },
+        {
+        "code": "U0140",
+        "description": "Lost comm W/BCM"
+        },
+        {
+        "code": "U0141",
+        "description": "Lost comm w/LHCM"
+        },
+        {
+        "code": "U0142",
+        "description": "Lost comm w/RHCM"
+        },
+        {
+        "code": "U0156",
+        "description": "Lost comm w/SPEEDO"
+        },
+        {
+        "code": "U0158",
+        "description": "Lost comm w/fuel gauge"
+        },
+        {
+        "code": "U0159",
+        "description": "Lost comm w/volt gauge"
+        },
+        {
+        "code": "U0160",
+        "description": "Lost comm w/ fuel and volt gauge"
+        },
+        {
+        "code": "U0184",
+        "description": "Lost comm w/radio"
+        },
+        {
+        "code": "U0185",
+        "description": "Lost comm w/Amp 1"
+        },
+        {
+        "code": "U0186",
+        "description": "Lost comm w/ AMP 2"
+        },
+        {
+        "code": "U1016",
+        "description": "Loss of ECM Serial Data"
+        },
+        {
+        "code": "U1064",
+        "description": "Loss of TSM/FSFM Serial Data to ECM"
+        },
+        {
+        "code": "U1097",
+        "description": "Loss of SpeedometerSerial Data to ECM"
+        },
+        {
+        "code": "U1255",
+        "description": "Serial Data Error"
+        },
+        {
+        "code": "U1300",
+        "description": "ECM Serial Data Low"
+        },
+        {
+        "code": "U1300",
+        "description": "Serial Data Low"
+        },
+        {
+        "code": "U1301",
+        "description": "ECM Serial Data High"
+        },
+        {
+        "code": "U1301",
+        "description": "Serial Data High"
+        },
+        {
+        "code": "U1302",
+        "description": "ACC bus perf error"
+        },
+        {
+        "code": "U1401",
+        "description": "Lost comm w/CB"
+        }
+    ]
+    }
